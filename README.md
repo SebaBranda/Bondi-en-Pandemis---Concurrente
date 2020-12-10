@@ -1,1 +1,1 @@
-# Bondi-en-Pandemis---Concurrente
+# Bondi-en-Pandemia---Programación Concurrente
